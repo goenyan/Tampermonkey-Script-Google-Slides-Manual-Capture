@@ -16,7 +16,7 @@ Installation
 - Copy the entire code from the script and paste it into the editor.
 - Save the script.
 
-Usage
+🧾Usage
 - Navigate to any web page containing a Google Slides presentation.
 - A control panel with two buttons will appear in the top-right corner of the screen.
 - Click 📸 Capture Slide for each slide you wish to save.
